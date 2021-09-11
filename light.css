@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   height: 100%;
+  max-width:40rem;
   margin:auto;
   text-align: center;
   box-sizing: border-box;
@@ -34,7 +35,9 @@
   background: #fff;
   color: #000;
 }
-
+.lifeProperty>li:last-child>span:last-child{
+  font-size:0.8rem;
+}
 .adventure {
   flex: 2;
   margin: 0.5rem 1rem;
