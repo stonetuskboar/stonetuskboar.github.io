@@ -13,7 +13,7 @@
 
 .lifeProperty {
   list-style: none;
-  padding: 2rem 1rem 1rem 2rem;
+  padding: 0rem 0rem 0rem 0rem;
   display: flex;
   color: #FFFFFF;
   overflow: auto;
@@ -61,4 +61,17 @@
 .adventure>li>span:last-child {
   text-align:left;
 
+}
+#sats {
+    width:15rem;
+    background-color: #4a5361;
+    color: #EEEEEE;
+    font-size:1.5rem;
+    margin: 0.5rem 1rem 1rem;
+    border: 1px #EEEEEE solid;
+border-radius: 0.2rem;
+}
+body{
+  margin: 0;
+  height: 100%;
 }
