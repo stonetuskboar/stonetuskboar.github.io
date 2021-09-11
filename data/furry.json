@@ -15,7 +15,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": 0,
+      "RMBchange": -1,
       "FAMchange": 1,
       "GAYchange": 1,
       "ADDchange": ["银狼"]
@@ -80,8 +80,8 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": 0,
-      "FAMchange": -2,
+      "RMBchange": -1,
+      "FAMchange": 1,
       "GAYchange": 0,
       "ADDchange": ["永别"]
     },
@@ -460,7 +460,7 @@
       "CHAchange": 0,
       "INTchange": 0,
       "RMBchange": 0,
-      "FAMchange": 0,
+      "FAMchange": 1,
       "GAYchange": 2,
       "ADDchange": ["-兽聚","-ACHKK"]
     },
@@ -545,7 +545,7 @@
       "CHAchange": -1,
       "INTchange": 0,
       "RMBchange": 2,
-      "FAMchange": -2,
+      "FAMchange": -1,
       "GAYchange": -2,
       "ADDchange": []
     },
@@ -566,7 +566,7 @@
       "CHAchange": 1,
       "INTchange": 0,
       "RMBchange": 2,
-      "FAMchange": 0,
+      "FAMchange": 1,
       "GAYchange": 0,
       "ADDchange": []
     },
