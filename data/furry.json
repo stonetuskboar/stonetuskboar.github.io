@@ -614,7 +614,7 @@
     },
     {
       "ID": 30,
-      "Event": "有人被外星狼劫走当作人质",
+      "Event": "有人被外星狼族劫走当作人质",
       "CHA": 0,
       "INT": 0,
       "RMB": 0,
@@ -622,7 +622,7 @@
       "GAY": 0,
       "ADD": [],
       "exclude":0,"include": [],
-      "goodPrompt": "",
+      "goodPrompt": "他又被救回来了",
       "badPrompt": "",
       "goodBranch": [],
       "badBranch": [],
