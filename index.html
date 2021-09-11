@@ -1,0 +1,65 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="模仿了人生重开器">
+    <meta name="keywords" content="Furry重开模拟器 Furryrestart Furry restart remake 人生重来">
+    <title>Furry重开模拟器</title>
+    <link id="themeLink" rel="stylesheet" href="light.css">
+</head>
+<script type="module" src='logic.js'></script>
+<body>
+    <script type="module">
+        import {status} from './logic.js'
+        fetch(`data/furry.json`).then(
+            function(get){
+                return get.json()
+            }).then(function(get){   
+                window.jsonData =get;     
+                var stats = new status();
+                stats.initial(window.jsonData);
+                console.log(jsonData);
+                console.log(" furry version 0.0011")
+                var adventure = document.getElementById('adventure');
+                adventure.onmouseup= function(){stats.Progress(document)};
+            })
+
+    </script>
+
+<div id="main">
+            <ul id="lifeProperty" class="lifeProperty">
+                    <li><span>颜值</span>
+                        <span id="CHA">7</span>
+                        <span>养眼</span>
+                    </li>
+                    <li><span>智力</span>
+                        <span id ="INT">3</span>
+                        <span>大智若愚</span>
+                    </li>
+                    <li><span>财力</span>
+                        <span id ="RMB">2</span>
+                        <span>手可缚鸡</span>
+                    </li>
+                    <li><span>名声</span>
+                        <span id ="FAM">3</span>
+                        <span>一般</span>
+                    </li>
+                    <li><span>快乐值</span>
+                        <span id = "GAY">0</span>
+                        <span>铁面无情</span>
+                    </li>
+                    <li><span >额外状态</span>
+                        <span id ="ADD">暂时没做</span>
+                    </li>
+                </ul>
+            <ul id="adventure" class="adventure">
+                <li><span>你了解了什么是Furry。</span></li>
+
+            </ul>
+            <div class="domToImage2wx">
+                <img src="" id="endImage">
+            </div>
+        </div></body></html>
+
+
+        
