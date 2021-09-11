@@ -98,7 +98,7 @@
       "goodPrompt": "你及时醒悟，把兽装退单了",
       "badPrompt": "你瞒过了父母",
       "goodBranch": [],
-      "badBranch": 6,
+      "badBranch": [6],
       "CHAchange": 0,
       "INTchange": 1,
       "RMBchange": 1,
