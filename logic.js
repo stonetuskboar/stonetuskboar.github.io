@@ -109,6 +109,14 @@
         for(var i =2;i<=6;i++)
         {
             this.statusData[this.TYPES[i]] += Events[this.TYPES[i] +"change"];
+         if(this.statusData[this.TYPES[i]] >20)
+          {
+           this.statusData[this.TYPES[i]] = 20;
+          }
+         if(this.statusData[this.TYPES[i]] <0)
+          {
+           this.statusData[this.TYPES[i]] = 0;
+          }
         }
         this.statusData[this.TYPES.LSE] = Events.exclude;
         Events["ADDchange"].forEach(ADDchange=>{
