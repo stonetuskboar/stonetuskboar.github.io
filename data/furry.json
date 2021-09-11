@@ -122,7 +122,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": -3,
+      "RMBchange": -5,
       "FAMchange": -5,
       "GAYchange": -3,
       "ADDchange": ["兽装"]
@@ -165,7 +165,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": -1,
+      "RMBchange": -2,
       "FAMchange": 0,
       "GAYchange": 1,
       "ADDchange": ["订票"]
@@ -270,7 +270,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": -2,
+      "RMBchange": -3,
       "FAMchange": 0,
       "GAYchange": 0,
       "ADDchange": ["-订票","兽聚"]
@@ -291,7 +291,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": -2,
+      "RMBchange": -3,
       "FAMchange": 0,
       "GAYchange": 0,
       "ADDchange": ["-订票","兽聚"]
@@ -312,7 +312,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": -2,
+      "RMBchange": -3,
       "FAMchange": 0,
       "GAYchange": 0,
       "ADDchange": ["-订票","兽聚"]
@@ -375,7 +375,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": 0,
+      "RMBchange": -2,
       "FAMchange": 0,
       "GAYchange": 1,
       "ADDchange": []
@@ -417,7 +417,7 @@
       "badBranch": [],
       "CHAchange": 2,
       "INTchange": 0,
-      "RMBchange": 0,
+      "RMBchange": -1,
       "FAMchange": 2,
       "GAYchange": 2,
       "ADDchange": []
@@ -438,7 +438,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 0,
-      "RMBchange": 0,
+      "RMBchange": -2,
       "FAMchange": 0,
       "GAYchange": 0,
       "ADDchange": ["-兽聚","-ACHKK"]
@@ -501,7 +501,7 @@
       "badBranch": [],
       "CHAchange": 0,
       "INTchange": 1,
-      "RMBchange": 1,
+      "RMBchange": 0,
       "FAMchange": 0,
       "GAYchange": 0,
       "ADDchange": []
@@ -544,7 +544,7 @@
       "badBranch": [],
       "CHAchange": -1,
       "INTchange": 0,
-      "RMBchange": 3,
+      "RMBchange": 2,
       "FAMchange": -2,
       "GAYchange": -2,
       "ADDchange": []
@@ -565,7 +565,7 @@
       "badBranch": [],
       "CHAchange": 1,
       "INTchange": 0,
-      "RMBchange": 3,
+      "RMBchange": 2,
       "FAMchange": 0,
       "GAYchange": 0,
       "ADDchange": []
@@ -627,7 +627,7 @@
       "goodBranch": [],
       "badBranch": [],
       "CHAchange": 0,
-      "INTchange": 0,
+      "INTchange": -1,
       "RMBchange": 0,
       "FAMchange": 0,
       "GAYchange": 0,
